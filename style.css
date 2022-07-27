@@ -1,0 +1,42 @@
+
+body{
+}
+
+.container{
+    background-color: #333333;
+    padding: 40px;
+    width: 40%;
+    max-width: 750px;
+    border-radius: 12px;
+    margin: 0 auto;
+}
+
+.contents{
+    width: 80%;
+    color: green;
+    font-family: consolas,monospace;
+    text-align: center;
+    margin: 0 auto;
+}
+
+button{
+    width:5em;
+    border-radius: 10px;
+    background-color: #222222;
+    color: white;
+    border: 1px solid #222222;
+    
+}
+ div h2{
+    
+    margin: 0 auto;
+    
+    
+}
+
+
+
+
+
+
+
